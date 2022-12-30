@@ -1,2 +1,2 @@
 # React_practice
-리액트 실습 repo
+리액트 실습 repository  
