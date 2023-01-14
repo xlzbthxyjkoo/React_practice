@@ -1,2 +1,2 @@
 # React_practice
-react repository
+react repository.
